@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "Giải thích khái niệm giai điệu trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Giai điệu là chuỗi cao độ được sắp xếp có hướng đi và cảm xúc. Khi hiểu giai điệu, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp người nghe ghi nhớ bài hát nhanh hơn."
+  },
+  {
+    "instruction": "Giải thích khái niệm hòa âm trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Hòa âm là cách các nốt và hợp âm vang lên cùng lúc. Khi hiểu hòa âm, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo chiều sâu, màu sắc và cảm giác căng thẳng hoặc thư giãn."
+  },
+  {
+    "instruction": "Giải thích khái niệm tiết tấu trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Tiết tấu là mẫu hình dài ngắn của âm thanh trong thời gian. Khi hiểu tiết tấu, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm bài nhạc có chuyển động, nhịp điệu và sức sống."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhịp độ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhịp độ là tốc độ diễn ra của bản nhạc, thường đo bằng BPM. Khi hiểu nhịp độ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó ảnh hưởng trực tiếp đến năng lượng và cảm giác của người nghe."
+  },
+  {
+    "instruction": "Giải thích khái niệm âm sắc trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Âm sắc là màu âm riêng giúp phân biệt giọng hát, nhạc cụ hoặc nguồn phát. Khi hiểu âm sắc, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó khiến cùng một nốt nhạc vẫn có cá tính khác nhau."
+  },
+  {
+    "instruction": "Giải thích khái niệm cao độ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Cao độ là độ cao thấp của âm thanh trong âm nhạc. Khi hiểu cao độ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó là nền tảng để xây dựng giai điệu, bè và hợp âm."
+  },
+  {
+    "instruction": "Giải thích khái niệm cường độ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Cường độ là mức mạnh nhẹ hoặc to nhỏ của âm thanh. Khi hiểu cường độ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp phần trình diễn có điểm nhấn thay vì đều đều."
+  },
+  {
+    "instruction": "Giải thích khái niệm quãng trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Quãng là khoảng cách giữa hai nốt nhạc. Khi hiểu quãng, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp nhận diện cảm giác vui, buồn, căng hoặc mở rộng."
+  },
+  {
+    "instruction": "Giải thích khái niệm thang âm trưởng trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Thang âm trưởng là hệ thống nốt thường tạo cảm giác sáng và ổn định. Khi hiểu thang âm trưởng, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó phù hợp với nhiều bài hát vui, truyền cảm hứng hoặc đại chúng."
+  },
+  {
+    "instruction": "Giải thích khái niệm thang âm thứ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Thang âm thứ là hệ thống nốt thường gợi cảm giác trầm, sâu hoặc suy tư. Khi hiểu thang âm thứ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó được dùng nhiều trong ballad, nhạc phim và các đoạn cảm xúc."
+  },
+  {
+    "instruction": "Giải thích khái niệm hợp âm chủ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Hợp âm chủ là hợp âm tạo cảm giác trung tâm và điểm trở về. Khi hiểu hợp âm chủ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp người nghe cảm nhận bài nhạc có nơi ổn định."
+  },
+  {
+    "instruction": "Giải thích khái niệm vòng hòa âm trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Vòng hòa âm là chuỗi hợp âm lặp hoặc phát triển theo trật tự. Khi hiểu vòng hòa âm, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo khung cảm xúc cho ca khúc và hỗ trợ giai điệu."
+  },
+  {
+    "instruction": "Giải thích khái niệm đảo hợp âm trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Đảo hợp âm là cách thay đổi nốt thấp nhất của hợp âm. Khi hiểu đảo hợp âm, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm phần đệm mượt hơn và tránh chuyển động bass quá thô."
+  },
+  {
+    "instruction": "Giải thích khái niệm chuyển điệu trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Chuyển điệu là việc đổi sang giọng hoặc trung tâm âm mới. Khi hiểu chuyển điệu, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo cao trào, bất ngờ và cảm giác phát triển trong bài hát."
+  },
+  {
+    "instruction": "Giải thích khái niệm điệp khúc trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Điệp khúc là phần thường lặp lại với thông điệp chính. Khi hiểu điệp khúc, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó là điểm neo giúp khán giả nhớ bài hát."
+  },
+  {
+    "instruction": "Giải thích khái niệm phiên khúc trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Phiên khúc là phần kể chuyện hoặc mở rộng nội dung trước điệp khúc. Khi hiểu phiên khúc, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp bài hát có bối cảnh và tiến trình cảm xúc."
+  },
+  {
+    "instruction": "Giải thích khái niệm bridge trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Bridge là đoạn chuyển khác màu so với phiên khúc và điệp khúc. Khi hiểu bridge, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp bài hát tránh nhàm chán trước khi trở lại cao trào."
+  },
+  {
+    "instruction": "Giải thích khái niệm hook trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Hook là câu nhạc hoặc ý tưởng dễ nhớ nhất. Khi hiểu hook, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó quyết định khả năng gây ấn tượng nhanh của ca khúc."
+  },
+  {
+    "instruction": "Giải thích khái niệm riff trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Riff là mẫu giai điệu ngắn thường lặp bằng guitar, bass hoặc synth. Khi hiểu riff, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo dấu hiệu nhận diện đặc trưng cho bản nhạc."
+  },
+  {
+    "instruction": "Giải thích khái niệm groove trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Groove là cảm giác lắc lư sinh ra từ nhịp, bass và trống. Khi hiểu groove, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó khiến người nghe muốn gật đầu hoặc chuyển động theo."
+  },
+  {
+    "instruction": "Giải thích khái niệm syncopation trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Syncopation là nhấn vào phách yếu hoặc vị trí bất ngờ. Khi hiểu syncopation, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm tiết tấu sinh động và bớt dự đoán được."
+  },
+  {
+    "instruction": "Giải thích khái niệm legato trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Legato là cách chơi hoặc hát nối âm mượt mà. Khi hiểu legato, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo cảm giác liền mạch, mềm mại và giàu biểu cảm."
+  },
+  {
+    "instruction": "Giải thích khái niệm staccato trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Staccato là cách chơi hoặc hát ngắt âm rõ ràng. Khi hiểu staccato, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo sự sắc nét, vui tươi hoặc căng thẳng tùy ngữ cảnh."
+  },
+  {
+    "instruction": "Giải thích khái niệm crescendo trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Crescendo là kỹ thuật tăng dần âm lượng. Khi hiểu crescendo, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó xây dựng cao trào và cảm giác tiến tới một điểm bùng nổ."
+  },
+  {
+    "instruction": "Giải thích khái niệm diminuendo trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Diminuendo là kỹ thuật giảm dần âm lượng. Khi hiểu diminuendo, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo cảm giác lắng xuống, rút lui hoặc kết thúc nhẹ nhàng."
+  },
+  {
+    "instruction": "Giải thích khái niệm vibrato trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Vibrato là dao động nhẹ quanh cao độ chính. Khi hiểu vibrato, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm giọng hát hoặc nhạc cụ có cảm xúc và độ sống động hơn."
+  },
+  {
+    "instruction": "Giải thích khái niệm falsetto trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Falsetto là giọng giả thanh ở vùng cao. Khi hiểu falsetto, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp ca sĩ tạo màu âm mỏng, bay và giàu cảm xúc."
+  },
+  {
+    "instruction": "Giải thích khái niệm belting trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Belting là kỹ thuật hát mạnh ở âm khu cao. Khi hiểu belting, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo cảm giác bùng nổ nhưng cần kiểm soát hơi thở và cổ họng."
+  },
+  {
+    "instruction": "Giải thích khái niệm phrasing trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Phrasing là cách chia câu, nhấn chữ và đặt hơi khi hát hoặc chơi nhạc. Khi hiểu phrasing, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp câu nhạc có ý nghĩa như lời nói."
+  },
+  {
+    "instruction": "Giải thích khái niệm intonation trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Intonation là độ chính xác cao độ khi hát hoặc chơi. Khi hiểu intonation, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó ảnh hưởng lớn đến cảm giác chuyên nghiệp của phần trình diễn."
+  },
+  {
+    "instruction": "Giải thích khái niệm bè hát trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Bè hát là các tuyến giọng phụ hỗ trợ giai điệu chính. Khi hiểu bè hát, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm phần vocal dày, rộng và giàu cảm xúc hơn."
+  },
+  {
+    "instruction": "Giải thích khái niệm call and response trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Call and response là hình thức một câu nhạc gọi và câu khác đáp lại. Khi hiểu call and response, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo đối thoại âm nhạc dễ cuốn người nghe."
+  },
+  {
+    "instruction": "Giải thích khái niệm ostinato trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Ostinato là mẫu nhạc ngắn lặp lại bền bỉ. Khi hiểu ostinato, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo nền tảng thôi miên hoặc cảm giác ổn định cho tác phẩm."
+  },
+  {
+    "instruction": "Giải thích khái niệm counterpoint trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Counterpoint là kỹ thuật kết hợp nhiều giai điệu độc lập. Khi hiểu counterpoint, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp âm nhạc phức tạp nhưng vẫn có trật tự."
+  },
+  {
+    "instruction": "Giải thích khái niệm phối khí trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Phối khí là quyết định nhạc cụ, lớp âm và cách phân bổ vai trò. Khi hiểu phối khí, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó biến bản demo đơn giản thành sản phẩm giàu màu sắc."
+  },
+  {
+    "instruction": "Giải thích khái niệm biên khúc trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Biên khúc là sắp xếp cấu trúc, đoạn chuyển và cao trào của bài. Khi hiểu biên khúc, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp ca khúc có hành trình cảm xúc rõ ràng."
+  },
+  {
+    "instruction": "Giải thích khái niệm sound design trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Sound design là tạo và chỉnh sửa âm thanh bằng công cụ kỹ thuật số. Khi hiểu sound design, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó đặc biệt quan trọng trong EDM, nhạc phim và game."
+  },
+  {
+    "instruction": "Giải thích khái niệm mixing trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Mixing là cân bằng các track trong bản thu. Khi hiểu mixing, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp giọng hát, nhạc cụ và hiệu ứng nghe rõ ràng cùng nhau."
+  },
+  {
+    "instruction": "Giải thích khái niệm mastering trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Mastering là bước hoàn thiện cuối cùng trước khi phát hành. Khi hiểu mastering, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp bản nhạc đạt âm lượng, độ cân bằng và tính nhất quán."
+  },
+  {
+    "instruction": "Giải thích khái niệm EQ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "EQ là công cụ tăng hoặc giảm từng vùng tần số. Khi hiểu EQ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp âm thanh bớt đục, bớt chói hoặc nổi bật đúng chỗ."
+  },
+  {
+    "instruction": "Giải thích khái niệm compression trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Compression là kỹ thuật kiểm soát chênh lệch âm lượng. Khi hiểu compression, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó làm phần thu ổn định và dễ nằm trong bản mix hơn."
+  },
+  {
+    "instruction": "Giải thích khái niệm reverb trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Reverb là hiệu ứng mô phỏng không gian vang. Khi hiểu reverb, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo chiều sâu như phòng nhỏ, nhà thờ hoặc sân khấu lớn."
+  },
+  {
+    "instruction": "Giải thích khái niệm delay trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Delay là hiệu ứng lặp lại âm thanh sau một khoảng thời gian. Khi hiểu delay, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo cảm giác rộng, nhịp nhàng hoặc mơ màng."
+  },
+  {
+    "instruction": "Giải thích khái niệm panning trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Panning là đặt âm thanh sang trái, phải hoặc giữa trong trường stereo. Khi hiểu panning, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp bản mix thoáng và có không gian."
+  },
+  {
+    "instruction": "Giải thích khái niệm sidechain trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Sidechain là kỹ thuật dùng một tín hiệu điều khiển âm lượng tín hiệu khác. Khi hiểu sidechain, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường giúp kick nổi bật trong nhạc dance."
+  },
+  {
+    "instruction": "Giải thích khái niệm MIDI trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "MIDI là chuẩn dữ liệu điều khiển nốt, nhịp và thông số biểu diễn. Khi hiểu MIDI, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó cho phép sáng tác linh hoạt với nhạc cụ ảo."
+  },
+  {
+    "instruction": "Giải thích khái niệm DAW trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "DAW là phần mềm sản xuất âm nhạc như một phòng thu số. Khi hiểu DAW, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp ghi âm, chỉnh sửa, phối khí và xuất bản nhạc."
+  },
+  {
+    "instruction": "Giải thích khái niệm sample trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Sample là đoạn âm thanh được cắt từ nguồn khác hoặc thư viện. Khi hiểu sample, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó có thể tạo màu sắc mới nhưng cần chú ý bản quyền."
+  },
+  {
+    "instruction": "Giải thích khái niệm loop trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Loop là đoạn âm thanh lặp lại theo chu kỳ. Khi hiểu loop, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp dựng nhanh nền trống, bass hoặc hòa âm."
+  },
+  {
+    "instruction": "Giải thích khái niệm metronome trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Metronome là công cụ phát nhịp đều để luyện tập. Khi hiểu metronome, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp người chơi giữ tempo ổn định và cải thiện cảm giác thời gian."
+  },
+  {
+    "instruction": "Giải thích khái niệm guitar acoustic trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Guitar acoustic là nhạc cụ dây có thùng cộng hưởng tự nhiên. Khi hiểu guitar acoustic, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó phù hợp với đệm hát, folk, pop và các bản mộc."
+  },
+  {
+    "instruction": "Giải thích khái niệm guitar điện trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Guitar điện là nhạc cụ dây dùng pickup và ampli. Khi hiểu guitar điện, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo nhiều màu âm từ sạch, crunch đến distortion."
+  },
+  {
+    "instruction": "Giải thích khái niệm piano trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Piano là nhạc cụ phím có dải âm rộng. Khi hiểu piano, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường dùng để sáng tác, đệm hát và biểu diễn độc tấu."
+  },
+  {
+    "instruction": "Giải thích khái niệm trống trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Trống là nhóm nhạc cụ giữ nhịp và tạo năng lượng. Khi hiểu trống, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó là xương sống của nhiều thể loại hiện đại."
+  },
+  {
+    "instruction": "Giải thích khái niệm bass trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Bass là nhạc cụ đảm nhiệm vùng trầm và liên kết hòa âm với nhịp. Khi hiểu bass, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp bài nhạc chắc, có lực và có hướng chuyển động."
+  },
+  {
+    "instruction": "Giải thích khái niệm synthesizer trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Synthesizer là nhạc cụ điện tử tạo âm bằng dao động và xử lý tín hiệu. Khi hiểu synthesizer, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó mở rộng màu âm vượt ngoài nhạc cụ truyền thống."
+  },
+  {
+    "instruction": "Giải thích khái niệm violin trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Violin là nhạc cụ dây kéo có âm sắc sáng và biểu cảm. Khi hiểu violin, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó phù hợp với cổ điển, nhạc phim và phối khí hiện đại."
+  },
+  {
+    "instruction": "Giải thích khái niệm cello trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Cello là nhạc cụ dây kéo có âm trầm ấm. Khi hiểu cello, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường tạo cảm giác sâu, buồn hoặc sang trọng."
+  },
+  {
+    "instruction": "Giải thích khái niệm saxophone trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Saxophone là nhạc cụ hơi có âm sắc dày và linh hoạt. Khi hiểu saxophone, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó gắn với jazz nhưng cũng xuất hiện trong pop, funk và ballad."
+  },
+  {
+    "instruction": "Giải thích khái niệm sáo trúc trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Sáo trúc là nhạc cụ hơi truyền thống Việt Nam. Khi hiểu sáo trúc, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó mang màu âm mộc mạc, trong trẻo và gần gũi."
+  },
+  {
+    "instruction": "Giải thích khái niệm đàn tranh trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Đàn tranh là nhạc cụ dây gảy truyền thống Việt Nam. Khi hiểu đàn tranh, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó tạo âm thanh ngân nga, mềm mại và giàu bản sắc."
+  },
+  {
+    "instruction": "Giải thích khái niệm đàn bầu trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Đàn bầu là nhạc cụ một dây đặc trưng của Việt Nam. Khi hiểu đàn bầu, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó nổi bật nhờ khả năng luyến láy giống giọng người."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhạc pop trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhạc pop là thể loại hướng tới giai điệu dễ nhớ và cấu trúc rõ. Khi hiểu nhạc pop, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó dễ tiếp cận với số đông khán giả."
+  },
+  {
+    "instruction": "Giải thích khái niệm rock trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Rock là thể loại nhấn mạnh guitar, trống và năng lượng biểu diễn. Khi hiểu rock, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường truyền tải sự mạnh mẽ hoặc phản kháng."
+  },
+  {
+    "instruction": "Giải thích khái niệm jazz trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Jazz là thể loại nổi bật với ứng tác, hòa âm mở rộng và swing. Khi hiểu jazz, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó đòi hỏi người chơi hiểu sâu nhịp và hòa âm."
+  },
+  {
+    "instruction": "Giải thích khái niệm blues trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Blues là thể loại dựa nhiều trên cảm xúc, thang âm blues và cấu trúc 12 ô nhịp. Khi hiểu blues, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó ảnh hưởng lớn đến rock, jazz và soul."
+  },
+  {
+    "instruction": "Giải thích khái niệm hip hop trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Hip hop là văn hóa âm nhạc tập trung vào rap, beat và nhịp điệu. Khi hiểu hip hop, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường kể chuyện đời sống, cá tính và quan điểm xã hội."
+  },
+  {
+    "instruction": "Giải thích khái niệm R&B trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "R&B là thể loại kết hợp groove, vocal giàu cảm xúc và hòa âm mềm. Khi hiểu R&B, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó phù hợp với các bài hát tình cảm hiện đại."
+  },
+  {
+    "instruction": "Giải thích khái niệm EDM trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "EDM là nhạc điện tử dành nhiều cho sân khấu và vũ đạo. Khi hiểu EDM, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó nhấn vào drop, build-up và năng lượng âm thanh."
+  },
+  {
+    "instruction": "Giải thích khái niệm lo-fi trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Lo-fi là phong cách dùng âm thanh ấm, nhiễu nhẹ và nhịp thư giãn. Khi hiểu lo-fi, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường phục vụ học tập, làm việc hoặc thư giãn."
+  },
+  {
+    "instruction": "Giải thích khái niệm folk trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Folk là âm nhạc gần với truyền thống kể chuyện và chất liệu dân gian. Khi hiểu folk, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giữ cảm giác mộc mạc, chân thật và cộng đồng."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhạc cổ điển trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhạc cổ điển là truyền thống âm nhạc nghệ thuật phương Tây nhiều thế kỷ. Khi hiểu nhạc cổ điển, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó đề cao cấu trúc, phát triển chủ đề và kỹ thuật biểu diễn."
+  },
+  {
+    "instruction": "Giải thích khái niệm opera trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Opera là hình thức sân khấu kết hợp hát, nhạc, diễn xuất và dàn dựng. Khi hiểu opera, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó đòi hỏi giọng hát mạnh và khả năng kể chuyện bằng âm nhạc."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhạc phim trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhạc phim là âm nhạc hỗ trợ cảm xúc, nhịp kể và bối cảnh điện ảnh. Khi hiểu nhạc phim, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó có thể khiến cảnh quay trở nên căng thẳng, lãng mạn hoặc hùng tráng."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhạc game trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhạc game là âm nhạc tương tác với hành động và không gian trò chơi. Khi hiểu nhạc game, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó cần lặp tốt mà vẫn không gây mệt mỏi."
+  },
+  {
+    "instruction": "Giải thích khái niệm quan họ trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Quan họ là dân ca đối đáp vùng Kinh Bắc. Khi hiểu quan họ, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó nổi bật bởi lối hát giao duyên, mềm mại và giàu tính cộng đồng."
+  },
+  {
+    "instruction": "Giải thích khái niệm ca trù trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Ca trù là thể loại âm nhạc truyền thống có hát nói và nhạc cụ đặc trưng. Khi hiểu ca trù, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó mang tính bác học, tinh tế và giàu nhịp phách."
+  },
+  {
+    "instruction": "Giải thích khái niệm cải lương trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Cải lương là sân khấu âm nhạc Nam Bộ kết hợp ca, diễn và vọng cổ. Khi hiểu cải lương, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó gắn với kể chuyện giàu cảm xúc."
+  },
+  {
+    "instruction": "Giải thích khái niệm bolero trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Bolero là dòng nhạc trữ tình có giai điệu chậm và lời dễ đồng cảm. Khi hiểu bolero, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường kể chuyện tình yêu, xa cách và hoài niệm."
+  },
+  {
+    "instruction": "Giải thích khái niệm indie Việt trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Indie Việt là dòng nhạc độc lập với cá tính sáng tác rõ. Khi hiểu indie Việt, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó thường gần gũi, tự sự và ít phụ thuộc khuôn mẫu thị trường."
+  },
+  {
+    "instruction": "Giải thích khái niệm nhạc thiếu nhi trong âm nhạc cho người mới học.",
+    "input": "",
+    "output": "Nhạc thiếu nhi là âm nhạc viết cho trẻ em với lời rõ và giai điệu đơn giản. Khi hiểu nhạc thiếu nhi, người học dễ nghe ra vai trò của yếu tố này trong bài nhạc, vì nó giúp giáo dục, vui chơi và phát triển cảm xúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng giai điệu hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng giai điệu, trước hết hãy nghe ví dụ ngắn để nhận ra chuỗi cao độ được sắp xếp có hướng đi và cảm xúc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp người nghe ghi nhớ bài hát nhanh hơn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng hòa âm hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng hòa âm, trước hết hãy nghe ví dụ ngắn để nhận ra cách các nốt và hợp âm vang lên cùng lúc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo chiều sâu, màu sắc và cảm giác căng thẳng hoặc thư giãn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng tiết tấu hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng tiết tấu, trước hết hãy nghe ví dụ ngắn để nhận ra mẫu hình dài ngắn của âm thanh trong thời gian. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm bài nhạc có chuyển động, nhịp điệu và sức sống."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhịp độ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhịp độ, trước hết hãy nghe ví dụ ngắn để nhận ra tốc độ diễn ra của bản nhạc, thường đo bằng BPM. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này ảnh hưởng trực tiếp đến năng lượng và cảm giác của người nghe."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng âm sắc hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng âm sắc, trước hết hãy nghe ví dụ ngắn để nhận ra màu âm riêng giúp phân biệt giọng hát, nhạc cụ hoặc nguồn phát. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này khiến cùng một nốt nhạc vẫn có cá tính khác nhau."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng cao độ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng cao độ, trước hết hãy nghe ví dụ ngắn để nhận ra độ cao thấp của âm thanh trong âm nhạc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này là nền tảng để xây dựng giai điệu, bè và hợp âm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng cường độ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng cường độ, trước hết hãy nghe ví dụ ngắn để nhận ra mức mạnh nhẹ hoặc to nhỏ của âm thanh. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp phần trình diễn có điểm nhấn thay vì đều đều."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng quãng hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng quãng, trước hết hãy nghe ví dụ ngắn để nhận ra khoảng cách giữa hai nốt nhạc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp nhận diện cảm giác vui, buồn, căng hoặc mở rộng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng thang âm trưởng hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng thang âm trưởng, trước hết hãy nghe ví dụ ngắn để nhận ra hệ thống nốt thường tạo cảm giác sáng và ổn định. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này phù hợp với nhiều bài hát vui, truyền cảm hứng hoặc đại chúng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng thang âm thứ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng thang âm thứ, trước hết hãy nghe ví dụ ngắn để nhận ra hệ thống nốt thường gợi cảm giác trầm, sâu hoặc suy tư. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này được dùng nhiều trong ballad, nhạc phim và các đoạn cảm xúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng hợp âm chủ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng hợp âm chủ, trước hết hãy nghe ví dụ ngắn để nhận ra hợp âm tạo cảm giác trung tâm và điểm trở về. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp người nghe cảm nhận bài nhạc có nơi ổn định."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng vòng hòa âm hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng vòng hòa âm, trước hết hãy nghe ví dụ ngắn để nhận ra chuỗi hợp âm lặp hoặc phát triển theo trật tự. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo khung cảm xúc cho ca khúc và hỗ trợ giai điệu."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng đảo hợp âm hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng đảo hợp âm, trước hết hãy nghe ví dụ ngắn để nhận ra cách thay đổi nốt thấp nhất của hợp âm. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm phần đệm mượt hơn và tránh chuyển động bass quá thô."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng chuyển điệu hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng chuyển điệu, trước hết hãy nghe ví dụ ngắn để nhận ra việc đổi sang giọng hoặc trung tâm âm mới. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo cao trào, bất ngờ và cảm giác phát triển trong bài hát."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng điệp khúc hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng điệp khúc, trước hết hãy nghe ví dụ ngắn để nhận ra phần thường lặp lại với thông điệp chính. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này là điểm neo giúp khán giả nhớ bài hát."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng phiên khúc hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng phiên khúc, trước hết hãy nghe ví dụ ngắn để nhận ra phần kể chuyện hoặc mở rộng nội dung trước điệp khúc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp bài hát có bối cảnh và tiến trình cảm xúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng bridge hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng bridge, trước hết hãy nghe ví dụ ngắn để nhận ra đoạn chuyển khác màu so với phiên khúc và điệp khúc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp bài hát tránh nhàm chán trước khi trở lại cao trào."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng hook hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng hook, trước hết hãy nghe ví dụ ngắn để nhận ra câu nhạc hoặc ý tưởng dễ nhớ nhất. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này quyết định khả năng gây ấn tượng nhanh của ca khúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng riff hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng riff, trước hết hãy nghe ví dụ ngắn để nhận ra mẫu giai điệu ngắn thường lặp bằng guitar, bass hoặc synth. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo dấu hiệu nhận diện đặc trưng cho bản nhạc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng groove hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng groove, trước hết hãy nghe ví dụ ngắn để nhận ra cảm giác lắc lư sinh ra từ nhịp, bass và trống. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này khiến người nghe muốn gật đầu hoặc chuyển động theo."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng syncopation hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng syncopation, trước hết hãy nghe ví dụ ngắn để nhận ra nhấn vào phách yếu hoặc vị trí bất ngờ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm tiết tấu sinh động và bớt dự đoán được."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng legato hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng legato, trước hết hãy nghe ví dụ ngắn để nhận ra cách chơi hoặc hát nối âm mượt mà. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo cảm giác liền mạch, mềm mại và giàu biểu cảm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng staccato hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng staccato, trước hết hãy nghe ví dụ ngắn để nhận ra cách chơi hoặc hát ngắt âm rõ ràng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo sự sắc nét, vui tươi hoặc căng thẳng tùy ngữ cảnh."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng crescendo hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng crescendo, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật tăng dần âm lượng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này xây dựng cao trào và cảm giác tiến tới một điểm bùng nổ."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng diminuendo hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng diminuendo, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật giảm dần âm lượng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo cảm giác lắng xuống, rút lui hoặc kết thúc nhẹ nhàng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng vibrato hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng vibrato, trước hết hãy nghe ví dụ ngắn để nhận ra dao động nhẹ quanh cao độ chính. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm giọng hát hoặc nhạc cụ có cảm xúc và độ sống động hơn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng falsetto hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng falsetto, trước hết hãy nghe ví dụ ngắn để nhận ra giọng giả thanh ở vùng cao. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp ca sĩ tạo màu âm mỏng, bay và giàu cảm xúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng belting hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng belting, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật hát mạnh ở âm khu cao. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo cảm giác bùng nổ nhưng cần kiểm soát hơi thở và cổ họng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng phrasing hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng phrasing, trước hết hãy nghe ví dụ ngắn để nhận ra cách chia câu, nhấn chữ và đặt hơi khi hát hoặc chơi nhạc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp câu nhạc có ý nghĩa như lời nói."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng intonation hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng intonation, trước hết hãy nghe ví dụ ngắn để nhận ra độ chính xác cao độ khi hát hoặc chơi. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này ảnh hưởng lớn đến cảm giác chuyên nghiệp của phần trình diễn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng bè hát hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng bè hát, trước hết hãy nghe ví dụ ngắn để nhận ra các tuyến giọng phụ hỗ trợ giai điệu chính. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm phần vocal dày, rộng và giàu cảm xúc hơn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng call and response hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng call and response, trước hết hãy nghe ví dụ ngắn để nhận ra hình thức một câu nhạc gọi và câu khác đáp lại. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo đối thoại âm nhạc dễ cuốn người nghe."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng ostinato hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng ostinato, trước hết hãy nghe ví dụ ngắn để nhận ra mẫu nhạc ngắn lặp lại bền bỉ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo nền tảng thôi miên hoặc cảm giác ổn định cho tác phẩm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng counterpoint hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng counterpoint, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật kết hợp nhiều giai điệu độc lập. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp âm nhạc phức tạp nhưng vẫn có trật tự."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng phối khí hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng phối khí, trước hết hãy nghe ví dụ ngắn để nhận ra quyết định nhạc cụ, lớp âm và cách phân bổ vai trò. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này biến bản demo đơn giản thành sản phẩm giàu màu sắc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng biên khúc hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng biên khúc, trước hết hãy nghe ví dụ ngắn để nhận ra sắp xếp cấu trúc, đoạn chuyển và cao trào của bài. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp ca khúc có hành trình cảm xúc rõ ràng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng sound design hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng sound design, trước hết hãy nghe ví dụ ngắn để nhận ra tạo và chỉnh sửa âm thanh bằng công cụ kỹ thuật số. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này đặc biệt quan trọng trong EDM, nhạc phim và game."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng mixing hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng mixing, trước hết hãy nghe ví dụ ngắn để nhận ra cân bằng các track trong bản thu. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp giọng hát, nhạc cụ và hiệu ứng nghe rõ ràng cùng nhau."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng mastering hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng mastering, trước hết hãy nghe ví dụ ngắn để nhận ra bước hoàn thiện cuối cùng trước khi phát hành. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp bản nhạc đạt âm lượng, độ cân bằng và tính nhất quán."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng EQ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng EQ, trước hết hãy nghe ví dụ ngắn để nhận ra công cụ tăng hoặc giảm từng vùng tần số. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp âm thanh bớt đục, bớt chói hoặc nổi bật đúng chỗ."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng compression hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng compression, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật kiểm soát chênh lệch âm lượng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này làm phần thu ổn định và dễ nằm trong bản mix hơn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng reverb hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng reverb, trước hết hãy nghe ví dụ ngắn để nhận ra hiệu ứng mô phỏng không gian vang. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo chiều sâu như phòng nhỏ, nhà thờ hoặc sân khấu lớn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng delay hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng delay, trước hết hãy nghe ví dụ ngắn để nhận ra hiệu ứng lặp lại âm thanh sau một khoảng thời gian. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo cảm giác rộng, nhịp nhàng hoặc mơ màng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng panning hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng panning, trước hết hãy nghe ví dụ ngắn để nhận ra đặt âm thanh sang trái, phải hoặc giữa trong trường stereo. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp bản mix thoáng và có không gian."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng sidechain hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng sidechain, trước hết hãy nghe ví dụ ngắn để nhận ra kỹ thuật dùng một tín hiệu điều khiển âm lượng tín hiệu khác. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường giúp kick nổi bật trong nhạc dance."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng MIDI hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng MIDI, trước hết hãy nghe ví dụ ngắn để nhận ra chuẩn dữ liệu điều khiển nốt, nhịp và thông số biểu diễn. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này cho phép sáng tác linh hoạt với nhạc cụ ảo."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng DAW hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng DAW, trước hết hãy nghe ví dụ ngắn để nhận ra phần mềm sản xuất âm nhạc như một phòng thu số. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp ghi âm, chỉnh sửa, phối khí và xuất bản nhạc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng sample hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng sample, trước hết hãy nghe ví dụ ngắn để nhận ra đoạn âm thanh được cắt từ nguồn khác hoặc thư viện. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này có thể tạo màu sắc mới nhưng cần chú ý bản quyền."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng loop hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng loop, trước hết hãy nghe ví dụ ngắn để nhận ra đoạn âm thanh lặp lại theo chu kỳ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp dựng nhanh nền trống, bass hoặc hòa âm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng metronome hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng metronome, trước hết hãy nghe ví dụ ngắn để nhận ra công cụ phát nhịp đều để luyện tập. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp người chơi giữ tempo ổn định và cải thiện cảm giác thời gian."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng guitar acoustic hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng guitar acoustic, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ dây có thùng cộng hưởng tự nhiên. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này phù hợp với đệm hát, folk, pop và các bản mộc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng guitar điện hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng guitar điện, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ dây dùng pickup và ampli. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo nhiều màu âm từ sạch, crunch đến distortion."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng piano hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng piano, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ phím có dải âm rộng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường dùng để sáng tác, đệm hát và biểu diễn độc tấu."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng trống hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng trống, trước hết hãy nghe ví dụ ngắn để nhận ra nhóm nhạc cụ giữ nhịp và tạo năng lượng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này là xương sống của nhiều thể loại hiện đại."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng bass hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng bass, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ đảm nhiệm vùng trầm và liên kết hòa âm với nhịp. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp bài nhạc chắc, có lực và có hướng chuyển động."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng synthesizer hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng synthesizer, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ điện tử tạo âm bằng dao động và xử lý tín hiệu. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này mở rộng màu âm vượt ngoài nhạc cụ truyền thống."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng violin hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng violin, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ dây kéo có âm sắc sáng và biểu cảm. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này phù hợp với cổ điển, nhạc phim và phối khí hiện đại."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng cello hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng cello, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ dây kéo có âm trầm ấm. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường tạo cảm giác sâu, buồn hoặc sang trọng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng saxophone hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng saxophone, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ hơi có âm sắc dày và linh hoạt. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này gắn với jazz nhưng cũng xuất hiện trong pop, funk và ballad."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng sáo trúc hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng sáo trúc, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ hơi truyền thống Việt Nam. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này mang màu âm mộc mạc, trong trẻo và gần gũi."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng đàn tranh hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng đàn tranh, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ dây gảy truyền thống Việt Nam. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này tạo âm thanh ngân nga, mềm mại và giàu bản sắc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng đàn bầu hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng đàn bầu, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc cụ một dây đặc trưng của Việt Nam. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này nổi bật nhờ khả năng luyến láy giống giọng người."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhạc pop hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhạc pop, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại hướng tới giai điệu dễ nhớ và cấu trúc rõ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này dễ tiếp cận với số đông khán giả."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng rock hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng rock, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại nhấn mạnh guitar, trống và năng lượng biểu diễn. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường truyền tải sự mạnh mẽ hoặc phản kháng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng jazz hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng jazz, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại nổi bật với ứng tác, hòa âm mở rộng và swing. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này đòi hỏi người chơi hiểu sâu nhịp và hòa âm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng blues hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng blues, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại dựa nhiều trên cảm xúc, thang âm blues và cấu trúc 12 ô nhịp. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này ảnh hưởng lớn đến rock, jazz và soul."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng hip hop hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng hip hop, trước hết hãy nghe ví dụ ngắn để nhận ra văn hóa âm nhạc tập trung vào rap, beat và nhịp điệu. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường kể chuyện đời sống, cá tính và quan điểm xã hội."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng R&B hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng R&B, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại kết hợp groove, vocal giàu cảm xúc và hòa âm mềm. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này phù hợp với các bài hát tình cảm hiện đại."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng EDM hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng EDM, trước hết hãy nghe ví dụ ngắn để nhận ra nhạc điện tử dành nhiều cho sân khấu và vũ đạo. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này nhấn vào drop, build-up và năng lượng âm thanh."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng lo-fi hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng lo-fi, trước hết hãy nghe ví dụ ngắn để nhận ra phong cách dùng âm thanh ấm, nhiễu nhẹ và nhịp thư giãn. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường phục vụ học tập, làm việc hoặc thư giãn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng folk hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng folk, trước hết hãy nghe ví dụ ngắn để nhận ra âm nhạc gần với truyền thống kể chuyện và chất liệu dân gian. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giữ cảm giác mộc mạc, chân thật và cộng đồng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhạc cổ điển hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhạc cổ điển, trước hết hãy nghe ví dụ ngắn để nhận ra truyền thống âm nhạc nghệ thuật phương Tây nhiều thế kỷ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này đề cao cấu trúc, phát triển chủ đề và kỹ thuật biểu diễn."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng opera hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng opera, trước hết hãy nghe ví dụ ngắn để nhận ra hình thức sân khấu kết hợp hát, nhạc, diễn xuất và dàn dựng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này đòi hỏi giọng hát mạnh và khả năng kể chuyện bằng âm nhạc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhạc phim hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhạc phim, trước hết hãy nghe ví dụ ngắn để nhận ra âm nhạc hỗ trợ cảm xúc, nhịp kể và bối cảnh điện ảnh. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này có thể khiến cảnh quay trở nên căng thẳng, lãng mạn hoặc hùng tráng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhạc game hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhạc game, trước hết hãy nghe ví dụ ngắn để nhận ra âm nhạc tương tác với hành động và không gian trò chơi. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này cần lặp tốt mà vẫn không gây mệt mỏi."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng quan họ hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng quan họ, trước hết hãy nghe ví dụ ngắn để nhận ra dân ca đối đáp vùng Kinh Bắc. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này nổi bật bởi lối hát giao duyên, mềm mại và giàu tính cộng đồng."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng ca trù hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng ca trù, trước hết hãy nghe ví dụ ngắn để nhận ra thể loại âm nhạc truyền thống có hát nói và nhạc cụ đặc trưng. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này mang tính bác học, tinh tế và giàu nhịp phách."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng cải lương hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng cải lương, trước hết hãy nghe ví dụ ngắn để nhận ra sân khấu âm nhạc Nam Bộ kết hợp ca, diễn và vọng cổ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này gắn với kể chuyện giàu cảm xúc."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng bolero hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng bolero, trước hết hãy nghe ví dụ ngắn để nhận ra dòng nhạc trữ tình có giai điệu chậm và lời dễ đồng cảm. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường kể chuyện tình yêu, xa cách và hoài niệm."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng indie Việt hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng indie Việt, trước hết hãy nghe ví dụ ngắn để nhận ra dòng nhạc độc lập với cá tính sáng tác rõ. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này thường gần gũi, tự sự và ít phụ thuộc khuôn mẫu thị trường."
+  },
+  {
+    "instruction": "Làm thế nào để luyện tập hoặc áp dụng nhạc thiếu nhi hiệu quả hơn?",
+    "input": "",
+    "output": "Để luyện hoặc áp dụng nhạc thiếu nhi, trước hết hãy nghe ví dụ ngắn để nhận ra âm nhạc viết cho trẻ em với lời rõ và giai điệu đơn giản. Sau đó bắt chước, ghi âm và tự biến đổi một chi tiết nhỏ, nhờ vậy bạn hiểu được cách yếu tố này giúp giáo dục, vui chơi và phát triển cảm xúc."
+  },
+  {
+    "instruction": "So sánh giai điệu và hòa âm trong một ca khúc.",
+    "input": "",
+    "output": "Giai điệu giống tuyến kể chuyện chính, thường được người nghe hát theo. Hòa âm là nền phía sau, tạo màu sắc và cảm xúc. Một bài hay cần cả hai phối hợp cân bằng."
+  },
+  {
+    "instruction": "Phân biệt mixing và mastering trong sản xuất âm nhạc.",
+    "input": "",
+    "output": "Mixing xử lý từng track riêng lẻ như vocal, trống, bass và nhạc cụ để chúng hòa với nhau. Mastering hoàn thiện toàn bản, tối ưu âm lượng, độ sáng và khả năng phát trên nhiều thiết bị."
+  },
+  {
+    "instruction": "Nêu cách viết điệp khúc dễ nhớ cho nhạc pop.",
+    "input": "",
+    "output": "Một điệp khúc dễ nhớ nên có giai điệu rõ, tiết tấu không quá phức tạp và thông điệp cô đọng. Người viết nên lặp ý chính vừa đủ để tạo dấu ấn."
+  },
+  {
+    "instruction": "Gợi ý cách bắt đầu học nhạc lý cho người chưa biết gì.",
+    "input": "",
+    "output": "Người mới nên bắt đầu từ nốt nhạc, nhịp, thang âm trưởng thứ và hợp âm cơ bản. Học đến đâu hãy nghe ví dụ đến đó để tránh biến nhạc lý thành kiến thức khô cứng."
+  },
+  {
+    "instruction": "Giải thích vì sao luyện tai nghe quan trọng với nhạc sĩ.",
+    "input": "",
+    "output": "Luyện tai giúp nhạc sĩ nhận ra cao độ, hợp âm, tiết tấu và lỗi biểu diễn nhanh hơn. Kỹ năng này làm việc tập luyện, phối khí và giao tiếp trong ban nhạc hiệu quả hơn."
+  },
+  {
+    "instruction": "Đưa ra lời khuyên để thu vocal tại nhà sạch hơn.",
+    "input": "",
+    "output": "Hãy chọn phòng ít vang, tắt nguồn ồn, đặt micro đúng khoảng cách và dùng pop filter. Sau khi thu, nên nghe lại bằng tai nghe để phát hiện hơi thở, méo tiếng hoặc âm nền."
+  },
+  {
+    "instruction": "Phân tích vai trò của bass trong ban nhạc.",
+    "input": "",
+    "output": "Bass nối phần trống với hòa âm, giúp bài nhạc có nền trầm chắc và hướng chuyển động rõ. Khi bass chơi tốt, toàn ban nhạc nghe ổn định và có sức nặng hơn."
+  },
+  {
+    "instruction": "Giải thích sự khác nhau giữa acoustic và electronic trong âm nhạc.",
+    "input": "",
+    "output": "Acoustic dựa vào âm thanh tự nhiên của nhạc cụ và không gian biểu diễn. Electronic dùng tổng hợp, xử lý và lập trình âm thanh, nên có thể tạo màu âm rộng và phi truyền thống hơn."
+  },
+  {
+    "instruction": "Gợi ý cách tạo không khí buồn trong một bản nhạc.",
+    "input": "",
+    "output": "Bạn có thể dùng tempo chậm, thang âm thứ, hợp âm treo, âm sắc mềm và khoảng lặng hợp lý. Lời ca nên tránh nói quá trực tiếp, để người nghe tự cảm nhận."
+  },
+  {
+    "instruction": "Gợi ý cách tạo năng lượng vui tươi trong một bản nhạc.",
+    "input": "",
+    "output": "Hãy thử tempo nhanh vừa phải, tiết tấu rõ, hợp âm sáng và nhạc cụ có âm sắc tươi. Điệp khúc nên mở rộng cao độ để tạo cảm giác bật lên."
+  },
+  {
+    "instruction": "Nêu các lỗi phổ biến khi người mới mix nhạc.",
+    "input": "",
+    "output": "Người mới thường để quá nhiều âm thanh chen nhau, lạm dụng reverb, tăng bass quá mạnh hoặc không kiểm tra trên nhiều loa. Cách sửa là giảm bớt và ưu tiên sự rõ ràng."
+  },
+  {
+    "instruction": "Giải thích vì sao khoảng lặng cũng là một phần của âm nhạc.",
+    "input": "",
+    "output": "Khoảng lặng giúp câu nhạc có hơi thở, tạo mong đợi và làm điểm nhấn nổi bật hơn. Nếu mọi thứ luôn đầy, người nghe dễ mệt và khó nhớ phần quan trọng."
+  },
+  {
+    "instruction": "Đề xuất cấu trúc cơ bản cho một bài hát pop.",
+    "input": "",
+    "output": "Cấu trúc phổ biến là intro, phiên khúc, tiền điệp khúc, điệp khúc, phiên khúc hai, bridge và điệp khúc cuối. Khuôn này dễ nghe nhưng vẫn có thể biến đổi sáng tạo."
+  },
+  {
+    "instruction": "Phân biệt beat maker và producer.",
+    "input": "",
+    "output": "Beat maker thường tập trung tạo phần beat, loop, trống và nền hòa âm. Producer có phạm vi rộng hơn, định hướng âm thanh, cấu trúc, cảm xúc, thu âm và hoàn thiện sản phẩm."
+  },
+  {
+    "instruction": "Giải thích cách chọn tempo cho bài hát.",
+    "input": "",
+    "output": "Tempo nên phù hợp với cảm xúc, lời ca và mục đích sử dụng. Bài suy tư thường chậm hơn, bài biểu diễn sân khấu cần năng lượng cao hơn, nhưng không có quy tắc tuyệt đối."
+  },
+  {
+    "instruction": "Gợi ý cách luyện giữ nhịp cho người chơi guitar.",
+    "input": "",
+    "output": "Hãy tập với metronome ở tốc độ chậm, gảy đều từng phách rồi tăng dần. Có thể ghi âm lại để kiểm tra xem tay phải có vội hoặc chậm hơn nhịp không."
+  },
+  {
+    "instruction": "Nêu cách làm lời bài hát tự nhiên hơn.",
+    "input": "",
+    "output": "Lời bài hát nên dùng hình ảnh cụ thể, câu nói gần đời sống và cảm xúc có tiến triển. Tránh nhồi quá nhiều thông điệp khiến ca từ giống văn xuôi giải thích."
+  },
+  {
+    "instruction": "Phân biệt sáng tác và phối khí.",
+    "input": "",
+    "output": "Sáng tác tạo ra ý tưởng cốt lõi như giai điệu, lời và hợp âm. Phối khí quyết định cách ý tưởng đó được trình bày bằng nhạc cụ, màu âm và lớp âm thanh."
+  },
+  {
+    "instruction": "Giải thích vì sao bản demo không cần quá hoàn hảo.",
+    "input": "",
+    "output": "Demo chủ yếu chứng minh ý tưởng bài hát, giai điệu và cảm xúc tổng thể. Nếu cố hoàn thiện quá sớm, người viết dễ mất thời gian vào chi tiết trước khi cấu trúc thật sự ổn."
+  },
+  {
+    "instruction": "Gợi ý cách nghe nhạc chủ động để học tốt hơn.",
+    "input": "",
+    "output": "Khi nghe chủ động, hãy chọn một yếu tố như trống, bass, vocal hoặc hòa âm để theo dõi. Sau đó ghi chú điều bạn nhận ra và thử áp dụng vào bài của mình."
+  },
+  {
+    "instruction": "Nêu cách xây dựng thói quen luyện nhạc mỗi ngày.",
+    "input": "",
+    "output": "Một buổi luyện tốt có mục tiêu nhỏ, thời lượng vừa sức và phần ôn lại rõ ràng. Duy trì đều mười lăm đến ba mươi phút mỗi ngày thường hiệu quả hơn luyện quá dài nhưng thất thường."
+  },
+  {
+    "instruction": "Giải thích vai trò của cảm xúc trong biểu diễn âm nhạc.",
+    "input": "",
+    "output": "Kỹ thuật giúp người chơi kiểm soát âm thanh, nhưng cảm xúc giúp phần trình diễn có ý nghĩa. Người biểu diễn cần hiểu câu chuyện bài nhạc để nhấn, nghỉ và thay đổi sắc thái hợp lý."
+  },
+  {
+    "instruction": "Đưa ra mẹo chọn nhạc cụ đầu tiên cho người mới.",
+    "input": "",
+    "output": "Hãy chọn nhạc cụ phù hợp sở thích, ngân sách, không gian luyện tập và mục tiêu âm nhạc. Một cây đàn dễ chơi, dễ bảo trì thường giúp người mới duy trì động lực lâu hơn."
+  },
+  {
+    "instruction": "Gợi ý cách học piano cho người tự học.",
+    "input": "",
+    "output": "Người tự học piano nên luyện tư thế tay, đọc nốt, hợp âm cơ bản và bài ngắn quen thuộc. Ghi hình quá trình tập giúp phát hiện lỗi nhịp, ngón và lực bấm."
+  },
+  {
+    "instruction": "Gợi ý cách học guitar đệm hát nhanh tiến bộ.",
+    "input": "",
+    "output": "Hãy bắt đầu với vài hợp âm mở, nhịp quạt đơn giản và bài hát có vòng hòa âm lặp. Đổi hợp âm chậm nhưng đúng sẽ tốt hơn chơi nhanh mà bị đứt nhịp."
+  },
+  {
+    "instruction": "Phân biệt cover và remix.",
+    "input": "",
+    "output": "Cover là trình bày lại bài hát với giọng hoặc phong cách mới, thường giữ phần cốt lõi. Remix thay đổi mạnh bản phối, beat, cấu trúc hoặc âm thanh để tạo phiên bản khác."
+  },
+  {
+    "instruction": "Giải thích tại sao nhạc phim có thể làm cảnh quay mạnh hơn.",
+    "input": "",
+    "output": "Nhạc phim hướng dẫn cảm xúc người xem bằng nhịp, hòa âm, âm sắc và khoảng lặng. Một cảnh đơn giản có thể trở nên hồi hộp hoặc xúc động hơn nhờ âm nhạc phù hợp."
+  },
+  {
+    "instruction": "Nêu cách phối vocal để không bị chìm trong bản mix.",
+    "input": "",
+    "output": "Vocal cần được dọn tần số đục, kiểm soát động bằng compression và đặt hiệu ứng vừa phải. Quan trọng nhất là chừa không gian cho giọng ở vùng trung rõ ràng."
+  },
+  {
+    "instruction": "Gợi ý cách viết phần mở đầu bài hát hấp dẫn.",
+    "input": "",
+    "output": "Intro nên giới thiệu màu âm hoặc motif chính nhưng không kéo dài quá mức. Một câu nhạc ngắn, âm thanh đặc biệt hoặc nhịp vào rõ có thể khiến người nghe chú ý ngay."
+  },
+  {
+    "instruction": "Giải thích vì sao nghe nhiều thể loại giúp sáng tác tốt hơn.",
+    "input": "",
+    "output": "Mỗi thể loại có cách xử lý nhịp, hòa âm, âm sắc và cấu trúc riêng. Khi nghe rộng, người sáng tác có thêm chất liệu để kết hợp thay vì lặp lại thói quen quen thuộc."
+  },
+  {
+    "instruction": "Đề xuất cách đặt tên bài hát.",
+    "input": "",
+    "output": "Tên bài nên gợi đúng cảm xúc hoặc hình ảnh trung tâm, đồng thời đủ ngắn để dễ nhớ. Bạn có thể lấy từ câu hook, biểu tượng chính hoặc mâu thuẫn quan trọng trong lời."
+  },
+  {
+    "instruction": "Nêu cách tránh làm bản phối quá dày.",
+    "input": "",
+    "output": "Hãy xác định mỗi nhạc cụ đảm nhiệm vai trò gì và xóa lớp không cần thiết. Nếu hai âm thanh cùng chiếm một vùng tần số, nên đổi quãng, đổi âm sắc hoặc giảm bớt."
+  },
+  {
+    "instruction": "Giải thích vai trò của người chỉ huy dàn nhạc.",
+    "input": "",
+    "output": "Người chỉ huy giữ nhịp, định hình sắc thái và thống nhất cách diễn giải giữa nhiều nhạc công. Họ không tạo âm trực tiếp nhưng ảnh hưởng lớn đến cấu trúc cảm xúc của buổi diễn."
+  },
+  {
+    "instruction": "Gợi ý cách tập hát đúng cao độ.",
+    "input": "",
+    "output": "Hãy tập từng quãng nhỏ với đàn, ghi âm lại và so sánh với nốt chuẩn. Người học nên hát chậm, thở ổn định và tránh cố lên cao khi chưa kiểm soát được âm thấp."
+  },
+  {
+    "instruction": "Phân biệt nhạc cụ solo và nhạc cụ đệm.",
+    "input": "",
+    "output": "Nhạc cụ solo thường mang giai điệu chính hoặc đoạn nổi bật, còn nhạc cụ đệm tạo nền hòa âm, nhịp và không gian. Một nhạc cụ có thể đảm nhiệm cả hai tùy bản phối."
+  },
+  {
+    "instruction": "Giải thích vì sao bản quyền âm nhạc quan trọng.",
+    "input": "",
+    "output": "Bản quyền bảo vệ công sức của người sáng tác, biểu diễn và sản xuất. Khi dùng sample, cover hoặc phát hành nhạc, hiểu quyền sử dụng giúp tránh tranh chấp và tôn trọng lao động sáng tạo."
+  },
+  {
+    "instruction": "Gợi ý cách làm playlist theo tâm trạng.",
+    "input": "",
+    "output": "Hãy chọn một cảm xúc trung tâm, sau đó sắp xếp bài theo đường cong năng lượng. Playlist tốt không chỉ gom bài giống nhau mà còn tạo hành trình nghe có mở đầu, cao trào và kết thúc."
+  },
+  {
+    "instruction": "Nêu cách chuẩn bị trước khi biểu diễn trên sân khấu.",
+    "input": "",
+    "output": "Người biểu diễn nên kiểm tra nhạc cụ, micro, monitor, setlist và tín hiệu với kỹ thuật viên. Ngoài ra cần khởi động cơ thể, giọng hoặc tay để giảm căng thẳng khi lên sân khấu."
+  }
+]
