@@ -24,6 +24,11 @@
 ## 3. Loss Curve Analysis
 **W&B Link**: [https://wandb.ai/thanhdatton0-/huggingface?nw=nwuserthanhdatton0](https://wandb.ai/thanhdatton0-/huggingface?nw=nwuserthanhdatton0)
 
+*(Lưu ý: Trong trường hợp link trên bị lỗi truy cập, thầy cô có thể xem trực tiếp các biểu đồ Loss được trích xuất từ W&B dưới đây, hoặc xem đầy đủ trong thư mục `results/charts/`):*
+
+![Training Loss](results/charts/Section-1-Panel-19-5g43nkifk.png)
+![Eval Loss](results/charts/Section-1-Panel-20-27ow2vxr1.png)
+
 **Quan sát**: Quá trình training diễn ra khá tốt và ổn định. Dựa trên số liệu Eval Loss giảm dần (từ 1.1209 xuống 1.0797 rồi 1.0252 khi tăng rank), không có dấu hiệu overfitting nghiêm trọng trên tập đánh giá. Việc sử dụng learning rate cosine schedule giúp mô hình hội tụ tốt. Đáng chú ý là model học các định dạng cấu trúc câu trả lời của dữ liệu âm nhạc rất nhanh.
 
 ## 4. Qualitative Comparison (5 examples)
